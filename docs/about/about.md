@@ -5,7 +5,7 @@ Cullen (He/They) is a data analyst and programmer based in Portland, Oregon. He 
 
 He enjoys solving complex problems and researching new understanding.
 
-Cullen is also an audio engineer that has worked in theatre, recording, and live music. 
+Cullen is also an audio engineer who has worked in theatre, recording, and live music. 
 
 His hobbies include painting and modeling miniatures, tabletop roleplaying, playing bass, and cooking. He also enjoys spending time with his animals, [Socks and Ludwig.](../assets/Ludwig+Socks.jpg)
 
